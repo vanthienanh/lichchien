@@ -9,7 +9,7 @@ public class AppConfig {
      * - Khi bạn đã đưa web lên host, chỉ cần dán link vào biến này: mọi thay đổi trên web
      *   sẽ lập tức hiển thị trên ứng dụng APK mỗi khi mở app mà không cần cài lại!
      */
-    public static final String WEB_URL = "";
+    public static final String WEB_URL = "vanthienanh.github.io";
 
     /**
      * Đường dẫn file offline dự phòng
